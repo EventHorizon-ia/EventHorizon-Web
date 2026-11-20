@@ -1,6 +1,6 @@
 # EventHorizon-Web
-Web development initiative by EventHorizon-AI, building modern websites and digital experiences for businesses and professionals.
 
+Web development initiative by EventHorizon-AI, building modern websites and digital experiences for businesses and professionals.
 
 **Building digital experiences for businesses.**
 
@@ -14,9 +14,9 @@ We turn ideas into functional, responsive, and accessible websites, combining th
 
 A collection of websites developed by our team.
 
-| Project | Description | Live Website |
-|---|---|---|
-| **Josy Quinaia** | Institutional website for an advanced aesthetics professional | [Visit Website](https://josy-quinaia.vercel.app/) |
+| Project | Description | Repository | Live Website |
+|---|---|---|---|
+| **Josy Quinaia** | Institutional website for an advanced aesthetics professional | [Repository](https://github.com/EventHorizon-ia/josy-quinaia-website) | [Visit Website](https://josy-quinaia.vercel.app/) |
 
 More projects coming soon.
 
@@ -59,4 +59,3 @@ Developed by **Lucas and Tiago** under the EventHorizon-AI initiative.
 ---
 
 *From ideas to digital experiences.*
-
