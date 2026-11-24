@@ -17,7 +17,7 @@ A collection of websites developed by our team.
 | Project | Description | Repository | Live Website |
 |---|---|---|---|
 | **Josy Quinaia** | Institutional website for an advanced aesthetics professional | [Repository](https://github.com/EventHorizon-ia/josy-quinaia-website) | [Visit Website](https://josy-quinaia.vercel.app/) |
-| **Beatriz Scarlatti Beauty** | Institutional website for a beauty and aesthetics studio | [Repository](https://github.com/EventHorizon-ia/beatriz-scarlatti-beauty) | [Visit Website](YOUR_VERCEL_URL_HERE) |
+| **Beatriz Scarlatti Beauty** | Institutional website for a beauty and aesthetics studio | [Repository](https://github.com/EventHorizon-ia/beatriz-scarlatti) | [Visit Website](YOUR_VERCEL_URL_HERE) |
 
 More projects coming soon.
 
