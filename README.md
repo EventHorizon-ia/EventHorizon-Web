@@ -17,8 +17,8 @@ A collection of websites developed by our team.
 | Project | Description | Repository | Live Website |
 |---|---|---|---|
 | **Josy Quinaia** | Institutional website for an advanced aesthetics professional | [Repository](https://github.com/EventHorizon-ia/josy-quinaia-website) | [Visit Website](https://josy-quinaia.vercel.app/) |
-| **Beatriz Scarlatti Beauty** | Institutional website for a beauty and aesthetics studio | [Repository](https://github.com/EventHorizon-ia/beatriz-scarlatti) | [Visit Website](YOUR_VERCEL_URL_HERE) |
-| Dona Lu | Site institucional para negócio de comida caseira | [Repository](https://github.com/tiagocosta02071221-cmyk/Dona-Lu-WebSite) | [Visite Website](COLOCAR-LINK-DA-VERCEL) |
+| **Beatriz Scarlatti Beauty** | Institutional website for a beauty and aesthetics studio | [Repository](https://github.com/EventHorizon-ia/beatriz-scarlatti) | [Visit Website](https://beatriz-scarlatti-beatriz-scarlatti.vercel.app/) |
+| Dona Lu | Site institucional para negócio de comida caseira | [Repository](https://github.com/tiagocosta02071221-cmyk/Dona-Lu-WebSite) | [Visite Website](https://dona-lu-website.vercel.app/) |
 
 More projects coming soon.
 
